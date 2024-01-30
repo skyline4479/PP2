@@ -1,0 +1,38 @@
+/* .bg {
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.5;
+  } */
+
+header {
+    text-align: center;
+    border-bottom: 2px solid black;
+    padding-bottom: 20px;
+    background-color: rgb(14, 62, 110);
+    color:white;
+    opacity: 0.9;
+}
+
+h1 {
+    margin-left: 20px
+}
+
+a {
+    border: 2px solid white;
+    border-radius: 50%;
+    width: 5rem;
+    padding: 5px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 2px;
+    border-radius: 16px;
+    font-family: Lato;
+    color:white;
+}
+
+li {
+    display: inline;
+}

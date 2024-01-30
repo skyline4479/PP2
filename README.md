@@ -1,4 +1,3 @@
-
 Logo
 
 # Project 2 template
